@@ -2,7 +2,7 @@
 Bizarre rots with weird numbers.
 
 #### Warning
-TableRot2137 is currently borked, because TableRotED implementation isn't ideal (it is borked too).
+[TableRot2137](https://github.com/PinkLolicorn/rot2137/blob/master/src/main/java/pl/daffit/rot2137/impl/TableRot2137.java) is currently borked, because [TableRotED](https://github.com/PinkLolicorn/rot2137/blob/master/src/main/java/pl/daffit/rot2137/TableRotED.java) implementation isn't ideal (it is borked too).
 
 ### Example
 ```java
